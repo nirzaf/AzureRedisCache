@@ -23,5 +23,14 @@ namespace AzureRedisCache.Controllers
             return View();
         }
 
+        public IActionResult About()
+        {
+            throw new System.NotImplementedException();
+        }
+
+        public IActionResult Contact()
+        {
+            throw new System.NotImplementedException();
+        }
     }
 }
