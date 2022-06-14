@@ -35,9 +35,6 @@ namespace AzureRedisCache
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory)
         {
-            loggerFactory.AddConsole(Configuration.GetSection("Logging"));
-            loggerFactory.AddDebug();
-
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
@@ -52,9 +49,7 @@ namespace AzureRedisCache
 
             app.UseMvc(routes =>
             {
-                routes.MapRoute(
-                    name: "default",
-                    template: "{controller=Home}/{action=Index}/{id?}");
+                MapRouteRouteBuilderExtensions.MapRoute(routes, name: "default", template: "{controller=Home}/{action=Index}/{id?}");
             });
         }
     }
