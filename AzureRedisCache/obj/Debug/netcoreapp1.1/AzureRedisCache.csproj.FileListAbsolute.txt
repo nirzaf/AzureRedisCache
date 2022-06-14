@@ -1,0 +1,17 @@
+E:\Repos\Articles-master\AzureRedisCache\AzureRedisCache\bin\Debug\netcoreapp1.1\appsettings.Development.json
+E:\Repos\Articles-master\AzureRedisCache\AzureRedisCache\bin\Debug\netcoreapp1.1\appsettings.json
+E:\Repos\Articles-master\AzureRedisCache\AzureRedisCache\bin\Debug\netcoreapp1.1\bower.json
+E:\Repos\Articles-master\AzureRedisCache\AzureRedisCache\bin\Debug\netcoreapp1.1\bundleconfig.json
+E:\Repos\Articles-master\AzureRedisCache\AzureRedisCache\bin\Debug\netcoreapp1.1\AzureRedisCache.deps.json
+E:\Repos\Articles-master\AzureRedisCache\AzureRedisCache\bin\Debug\netcoreapp1.1\AzureRedisCache.runtimeconfig.json
+E:\Repos\Articles-master\AzureRedisCache\AzureRedisCache\bin\Debug\netcoreapp1.1\AzureRedisCache.runtimeconfig.dev.json
+E:\Repos\Articles-master\AzureRedisCache\AzureRedisCache\bin\Debug\netcoreapp1.1\AzureRedisCache.dll
+E:\Repos\Articles-master\AzureRedisCache\AzureRedisCache\bin\Debug\netcoreapp1.1\AzureRedisCache.pdb
+E:\Repos\Articles-master\AzureRedisCache\AzureRedisCache\obj\Debug\netcoreapp1.1\AzureRedisCache.csproj.AssemblyReference.cache
+E:\Repos\Articles-master\AzureRedisCache\AzureRedisCache\obj\Debug\netcoreapp1.1\AzureRedisCache.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Articles-master\AzureRedisCache\AzureRedisCache\obj\Debug\netcoreapp1.1\AzureRedisCache.AssemblyInfoInputs.cache
+E:\Repos\Articles-master\AzureRedisCache\AzureRedisCache\obj\Debug\netcoreapp1.1\AzureRedisCache.AssemblyInfo.cs
+E:\Repos\Articles-master\AzureRedisCache\AzureRedisCache\obj\Debug\netcoreapp1.1\AzureRedisCache.csproj.CoreCompileInputs.cache
+E:\Repos\Articles-master\AzureRedisCache\AzureRedisCache\obj\Debug\netcoreapp1.1\AzureRedisCache.dll
+E:\Repos\Articles-master\AzureRedisCache\AzureRedisCache\obj\Debug\netcoreapp1.1\AzureRedisCache.pdb
+E:\Repos\Articles-master\AzureRedisCache\AzureRedisCache\obj\Debug\netcoreapp1.1\AzureRedisCache.genruntimeconfig.cache
