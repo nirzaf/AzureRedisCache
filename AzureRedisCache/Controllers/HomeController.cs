@@ -1,6 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Caching.Distributed;
-using Newtonsoft.Json;
 
 namespace AzureRedisCache.Controllers
 {
@@ -10,7 +9,7 @@ namespace AzureRedisCache.Controllers
 
         public HomeController(IDistributedCache cache)
         {
-            this._cache = cache;
+            _cache = cache;
         }
         public IActionResult Index()
         {
